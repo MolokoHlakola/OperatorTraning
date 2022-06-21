@@ -1,0 +1,162 @@
+16-Apr-2022 12:57:15.204 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:57:15.312 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:58:22.330 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:23.377 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:23.381 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:58:26.750 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:27.868 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:29.099 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:29.106 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:58:29.930 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:30.268 INFO [main] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+16-Apr-2022 12:58:30.303 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:58:31.529 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'sakai.message.bundle.manager'
+16-Apr-2022 12:58:32.100 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:32.101 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:58:32.554 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:32.563 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:58:33.226 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:33.232 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:58:35.577 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:35.583 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:58:36.315 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:36.322 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:58:37.677 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:37.690 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:58:38.194 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:38.551 INFO [main] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+16-Apr-2022 12:58:38.581 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:58:39.398 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'sakai.onedrive'
+16-Apr-2022 12:58:39.696 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:39.959 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:39.960 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:58:40.310 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:40.317 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:58:40.720 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:40.934 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:41.556 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:41.557 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:58:42.938 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:42.947 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:58:44.170 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:44.176 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:58:48.962 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:49.543 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:49.545 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:58:50.096 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:50.880 INFO [main] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+16-Apr-2022 12:58:50.927 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:58:51.786 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'sakai.datemanager'
+16-Apr-2022 12:58:52.161 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:52.880 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:52.889 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:58:55.228 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:55.846 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:56.399 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:56.405 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:58:57.464 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:57.465 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:58:58.007 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:58.012 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:58:58.451 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:59.416 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:58:59.427 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:59:01.466 INFO [main] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+16-Apr-2022 12:59:01.493 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:59:02.321 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'sakai.googledrive'
+16-Apr-2022 12:59:02.715 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:02.960 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:02.961 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:59:02.999 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+16-Apr-2022 12:59:05.209 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:05.209 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:59:05.811 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:05.818 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:59:07.129 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:07.145 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:59:07.874 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:07.880 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:59:08.879 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:08.880 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:59:10.054 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:11.128 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:11.135 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:59:22.793 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:22.795 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:59:22.867 INFO [main] org.apache.catalina.core.ApplicationContext.log org.tuckey.web.filters.urlrewrite.UrlRewriteFilter INFO: loaded (conf ok)
+16-Apr-2022 12:59:23.258 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:23.989 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:23.997 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:59:26.032 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:26.041 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:59:27.506 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:28.854 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:34.583 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:35.101 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:35.107 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:59:38.288 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:38.289 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:59:41.695 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:42.277 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:42.285 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:59:44.452 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:44.457 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:59:45.800 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:46.558 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:46.559 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:59:54.013 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:54.014 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:59:55.591 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:55.592 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:59:55.911 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:55.912 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:59:57.100 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:57.123 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:59:57.974 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:58.427 INFO [main] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+16-Apr-2022 12:59:58.459 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 12:59:59.425 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'sakai-site-group-manager'
+16-Apr-2022 12:59:59.808 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 12:59:59.816 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 13:00:00.546 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 13:00:00.546 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 13:00:00.926 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 13:00:01.167 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 13:00:01.527 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 13:00:01.534 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 13:00:03.862 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 13:00:06.112 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 13:00:08.828 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 13:00:09.257 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 13:00:09.624 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 13:00:09.630 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 13:00:09.705 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring'
+16-Apr-2022 13:00:10.127 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 13:00:10.136 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 13:00:10.774 INFO [main] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+16-Apr-2022 13:00:31.155 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 13:00:31.629 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 13:00:31.995 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 13:00:32.271 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 13:00:32.612 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 13:00:32.622 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 13:00:32.943 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 13:00:33.498 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 13:00:33.505 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 13:00:36.825 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 13:00:40.109 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 13:00:46.922 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 13:00:46.929 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 13:00:47.679 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 13:00:47.687 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 13:00:48.477 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 13:00:48.493 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 13:00:49.019 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 13:00:49.340 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 13:00:49.347 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+16-Apr-2022 13:00:49.926 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 13:00:50.536 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+16-Apr-2022 13:00:50.545 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+16-Apr-2022 13:00:50.545 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+16-Apr-2022 13:00:50.546 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@b153b8fd')
+16-Apr-2022 13:00:50.693 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath

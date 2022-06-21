@@ -1,0 +1,200 @@
+24-May-2022 06:35:10.502 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:10.587 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:37.998 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:38.941 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:38.945 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:40.247 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:40.813 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:41.539 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:41.542 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:41.888 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:42.110 INFO [main] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+24-May-2022 06:35:42.138 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:43.062 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'sakai.message.bundle.manager'
+24-May-2022 06:35:43.286 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:43.286 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:43.492 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:43.496 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:43.850 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:43.854 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:44.887 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:44.890 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:45.152 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:45.156 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:46.122 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:46.127 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:46.411 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:46.550 INFO [main] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+24-May-2022 06:35:46.571 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:46.957 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'sakai.onedrive'
+24-May-2022 06:35:47.090 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:47.237 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:47.237 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:47.418 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:47.421 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:47.542 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:47.673 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:47.955 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:47.955 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:48.708 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:48.713 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:49.506 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:49.509 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:50.788 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:51.113 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:51.113 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:51.346 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:51.641 INFO [main] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+24-May-2022 06:35:51.658 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:52.058 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'sakai.datemanager'
+24-May-2022 06:35:52.255 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:52.545 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:52.549 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:53.681 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:54.017 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:54.327 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:54.331 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:54.823 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:54.823 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:55.138 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:55.141 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:55.373 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:55.863 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:55.871 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:57.217 INFO [main] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+24-May-2022 06:35:57.233 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:57.601 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'sakai.googledrive'
+24-May-2022 06:35:57.778 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:57.861 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:57.861 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:57.877 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring-mvc'
+24-May-2022 06:35:58.139 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:58.139 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:58.351 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:58.357 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:58.930 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:58.935 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:59.352 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:59.355 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:35:59.848 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:35:59.848 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:00.751 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:01.124 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:01.128 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:02.309 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:02.310 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:02.345 INFO [main] org.apache.catalina.core.ApplicationContext.log org.tuckey.web.filters.urlrewrite.UrlRewriteFilter INFO: loaded (conf ok)
+24-May-2022 06:36:02.532 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:02.980 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:02.983 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:04.018 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:04.021 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:04.782 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:05.756 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:08.636 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:08.805 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:08.809 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:09.851 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:09.851 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:10.788 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:10.979 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:10.982 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:11.780 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:11.783 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:12.392 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:12.693 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:12.693 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:14.869 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:14.870 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:15.726 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:15.727 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:15.841 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:15.842 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:16.116 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:16.128 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:16.492 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:16.751 INFO [main] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+24-May-2022 06:36:16.774 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:17.205 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'sakai-site-group-manager'
+24-May-2022 06:36:17.450 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:17.455 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:17.853 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:17.854 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:18.052 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:18.146 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:18.281 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:18.284 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:19.513 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:20.947 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:22.768 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:23.052 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:23.248 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:23.251 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:23.289 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'spring'
+24-May-2022 06:36:23.604 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:23.607 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:23.839 INFO [main] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+24-May-2022 06:36:34.703 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:34.993 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:35.137 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:35.315 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:35.482 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:35.485 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:35.609 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:35.872 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:35.876 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:36.991 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:38.443 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:41.972 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:41.975 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:42.623 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:42.628 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:43.250 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:43.255 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:43.602 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:43.764 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:43.768 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+24-May-2022 06:36:44.033 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:44.405 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:36:44.408 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+24-May-2022 06:36:44.408 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+24-May-2022 06:36:44.408 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@f3237ae8')
+24-May-2022 06:36:44.490 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+24-May-2022 06:37:41.551 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:41.574 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:41.727 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:41.795 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:41.808 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:41.811 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:41.817 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:41.820 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:41.834 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:41.889 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:41.897 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:41.919 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:41.925 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:41.927 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:41.937 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:41.963 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:41.967 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:41.968 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:41.975 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:41.980 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:42.278 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:42.280 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:42.281 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:42.284 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:42.295 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:42.296 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:42.297 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:42.300 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:42.305 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:42.307 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:42.308 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:42.309 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:42.311 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:42.314 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:42.317 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:42.321 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:42.323 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
+24-May-2022 06:37:42.325 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.

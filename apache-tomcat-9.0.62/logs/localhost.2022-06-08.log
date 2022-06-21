@@ -1,0 +1,1 @@
+08-Jun-2022 19:41:10.394 INFO [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log No context init parameter 'javax.faces.PARTIAL_STATE_SAVING_METHOD' found; no partial state saving method defined, assuming default partial state saving method off.
